@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1,
+h2 {
+  margin: 0;
+  padding: 0;
+}
+.heading {
+  /* background-color: wheat; */
+  color: wheat;
+  font-size: 2.5rem;
+  padding: 1rem 0.6rem;
+  letter-spacing: 1px;
+}
+body {
+  background-color: turquoise;
+  margin: 0;
+}
+input {
+  padding: 1rem;
+  margin: 1.2rem;
+  font-size: 1.5rem;
+  border-radius: 0.5rem;
+  border: 2px solid black;
+  height: 5vh;
+  width: 40%;
+  text-align: center;
+}
