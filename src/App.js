@@ -7,7 +7,25 @@ const emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "👨‍💻": "A boy coding",
+  "⚽": "Football",
+  "🚧": "Construction barrier",
+  "🍓": "Strawberry",
+  "🛸": "UFO",
+  "🏓": "Table tennis",
+  "🌍": "Earth",
+  "🤳": "Taking selfie",
+  "💋": "Kiss mark",
+  "🌭": "Hotdog",
+  "🛹": "Skateboard",
+  "🚂": "Locomotive",
+  "😎": "Face with sunglasses",
+  "🎁": "Wrapped gift",
+  "🎢": "Roller Coaster",
+  "🦘": "Kangaroo",
+  "🧠": "Brain",
+  "🏇": "Horse racing"
 };
 
 /*
