@@ -1,3 +1,5 @@
 # Emoji-Dictionary
-Created with CodeSandbox
-![Screenshot_6](https://user-images.githubusercontent.com/73245914/179389019-ddc2c476-d79c-49c2-92ab-445fcc6017d9.jpg)
+It is a emoji dictionary that helps you to find the meaning of the emoji.<br>
+It is made using code sandbox.<br>
+Tech stack used: HTML5, CSS, and React. <br>
+![Screenshot_22](https://user-images.githubusercontent.com/73245914/181898314-f0021b2f-02ae-4640-aa12-24b80c926942.jpg)
